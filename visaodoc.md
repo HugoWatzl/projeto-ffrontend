@@ -11,4 +11,5 @@ Documento de Regras de Negócio.
 
 Esse sistema permitirá os usuários a interaçao mas landingpages de maneira a aumentar o engajamento das listas virtuais.
 
-## PERfIL DOS SISTEMAS ATUAIS 
+## PERFIL DOS SISTEMAS ATUAIS 
+
